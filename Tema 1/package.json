@@ -1,0 +1,20 @@
+{
+  "name": "tema-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+
+  "dependencies": {
+    "buffered-reader": "~1.0.1",
+    "bufferedreader": "^1.0.4",
+    "express": "~4.18.2",
+    "path": "~0.12.7"
+  },
+
+  "devDependencies": {
+    "nodemon":"~2.0.20"
+  }
+}
